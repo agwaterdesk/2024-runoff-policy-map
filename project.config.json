@@ -1,0 +1,25 @@
+{
+  "project": {
+    "name": "2024-runoff-policy-map",
+    "slug": "2024-runoff-policy-map"
+  },
+  "s3": {
+    "bucket": "",
+    "folder": "2024-runoff-policy-map"
+  },
+  "google": {
+    "doc": [
+      {
+        "id": "",
+        "filepath": "src/data/copy.json"
+      }
+    ],
+    "sheet": [
+      {
+        "id": "",
+        "gid": "",
+        "filepath": ""
+      }
+    ]
+  }
+}

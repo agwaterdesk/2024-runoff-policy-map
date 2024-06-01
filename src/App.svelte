@@ -35,8 +35,8 @@
   <p class="sr-only">
     Two maps of the United States highlighting states along the Mississippi
     River with and without historical nitrate and phosphorus baselines. States
-    without nitrogen baselines are Tennessee, Mississippi, and Louisiana. States
-    without phosphorus baselines are Tennessee and Mississippi.
+    without nitrogen baselines are Louisiana, Tennessee and Wisconsin. States
+    without phosphorus baselines are Tennessee and Louisiana.
   </p>
 
   <div class="flex">

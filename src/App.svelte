@@ -21,11 +21,11 @@
 <div class="chart-container">
   <h1 class="headline">
     States along the Mississippi River <span class="g-span g-with">with</span>
-    and <span class="g-span g-without">without</span> historical nitrate and phosphorus
+    and <span class="g-span g-without">without</span> historical nitrogen and phosphorus
     baselines
   </h1>
   <p class="dek">
-    States along the Mississippi River track nitrate and phosphorus levels using
+    States along the Mississippi River track nitrogen and phosphorus levels using
     direct measurements and modeling to assess water quality and the impact of
     agricultural runoff. Having a historical baseline enables these states to
     monitor changes over time, helping to gauge the effectiveness of pollution
@@ -34,7 +34,7 @@
 
   <p class="sr-only">
     Two maps of the United States highlighting states along the Mississippi
-    River with and without historical nitrate and phosphorus baselines. States
+    River with and without historical nitrogen and phosphorus baselines. States
     without nitrogen baselines are Louisiana, Tennessee and Wisconsin. States
     without phosphorus baselines are Tennessee and Louisiana.
   </p>
